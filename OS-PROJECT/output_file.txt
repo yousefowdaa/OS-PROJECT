@@ -1,0 +1,2 @@
+Processes waiting Time:
+Average: 0ms

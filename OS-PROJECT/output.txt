@@ -1,0 +1,7 @@
+Processes Waiting Time 
+P1: 0ms
+P2: 4ms
+P3: 8ms
+P4: 10ms
+P5: 13ms
+Average: 7ms
